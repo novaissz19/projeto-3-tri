@@ -1,5 +1,5 @@
 body {
-   background-color: black;
+   background-color: rgb(77, 192, 77);
    color: aliceblue;
  
 }
@@ -21,7 +21,7 @@ img {
    width: 150px;
    height: 150px;
    border-radius: 50%;
-   border: 5px solid black;
+   border: 5px solid rgb(230, 215, 215);
 }
 
 .center {
